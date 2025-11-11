@@ -10,6 +10,7 @@ while True:
         break  
 
     except ValueError:
+        
         print("Error: debes ingresar solo números (usa punto para decimales). Intenta de nuevo.\n")
 
 

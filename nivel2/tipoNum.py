@@ -13,5 +13,6 @@ while True:
         elif num == 0:
             print("El numero es igual a cero")
             break
+            
     except ValueError:
         print("Error: ingresa un dato valido")
