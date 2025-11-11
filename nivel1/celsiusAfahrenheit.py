@@ -8,6 +8,7 @@ while True:
         print(f"los grados en fahrenheit son: {fahrenheit}")
         print(type(celsius))
         print(type(fahrenheit))
+        
         break
     except ValueError:
         print("Error: ingresa datos validos")

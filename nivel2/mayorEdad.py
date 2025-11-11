@@ -10,6 +10,7 @@ while True:
             print("eres mayor de edad, bienvenido")
             break
     except ValueError:
+        
         print("Error: ingrese un valor valido")
 
 

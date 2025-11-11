@@ -2,6 +2,7 @@ while True:
     try:
         base = int(input("ingresa la anchura del triangulo: "))
         alto = int(input("ingresa la altura del triangulo: "))
+        
 
         resultado = (alto * base) / 2
         print(f"el area del triangulo es: {resultado}")

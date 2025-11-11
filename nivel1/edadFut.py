@@ -5,6 +5,7 @@ while True:
 
         total = edadAct + edadFut 
         print(f"En {edadFut} años, tendra {total} años")
+        
     except ValueError:
         print("Error: ingresa datos validos")
 

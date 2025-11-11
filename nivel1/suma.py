@@ -7,6 +7,7 @@ while True:
 
         resultado = num1 + num2
         print(f"✅ El resultado es: {resultado}")
+        
         break  
 
     except ValueError:
