@@ -31,6 +31,7 @@ def division():
         print(f"El resultado es: {resultado}")
 
 
+
 print("CALCULADORA\n 1. suma\n 2. resta\n 3.multiplicacion\n 4.division\n 5. salir")
 
 while True:
