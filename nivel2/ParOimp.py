@@ -10,6 +10,6 @@ while True:
     if num % 2 == 0:
         print("es par")
         break
-    else :
+    else:
         print("es impar")
         break
